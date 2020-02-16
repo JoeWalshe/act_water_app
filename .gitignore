@@ -109,6 +109,7 @@ venv/
 ENV/
 env.bak/
 venv.bak/
+act_water_app/
 
 # Spyder project settings
 .spyderproject
@@ -127,3 +128,6 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Access token
+mapbox_token.txt
